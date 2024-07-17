@@ -2,7 +2,7 @@
 
 歡迎來到 **伊伊接技小幫手** 的發布頁面~在這裡可以找到最新版本的ZIP壓縮檔案和EXE安裝檔!
 
-![伊伊接技小幫手](https://i.imgur.com/wqadvdp.png)
+<img src="https://i.imgur.com/wqadvdp.png" alt="伊伊接技小幫手" width="170" height="221">
 
 ## 📥 下載鏈接
 
