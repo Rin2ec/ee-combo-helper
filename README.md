@@ -18,7 +18,7 @@
 **伊伊接技小幫手** 是一個用於練習鍵盤組合操作的工具，適用於各種需要鍵盤組合的遊戲。主要功能包括：
 - 讀取指定格式的txt檔案，顯示按鍵組合。
 - 置頂視窗、隱藏介面、更改按鍵語言或模式、提示功能、系統訊息等。
-- 詳細可以查看[巴哈姆特文章](https://)。
+- 詳細可以查看[巴哈姆特文章](https://forum.gamer.com.tw/C.php?bsn=19017&snA=65245&tnum=1)。
 
 ### 🚀 使用方法
 1. 下載並解壓縮或安裝本工具。
@@ -35,4 +35,4 @@
 - 暫無
 
 ## 🛠 問題反饋與討論
-如果你在使用過程中遇到任何問題或有相關建議，請到 [巴哈姆特文章](https://) 、[Discord]([https://](https://discord.gg/UJfHxYBgfB))提交反饋，或在 [實況網站]([https://](https://www.twitch.tv/shiyu2615)) 上進行交流討論。
+如果你在使用過程中遇到任何問題或有相關建議，請到 [巴哈姆特文章](https://forum.gamer.com.tw/C.php?bsn=19017&snA=65245&tnum=1) 、[Discord]([https://](https://discord.gg/UJfHxYBgfB))提交反饋，或在 [實況網站]([https://](https://www.twitch.tv/shiyu2615)) 上進行交流討論。
