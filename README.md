@@ -6,7 +6,7 @@
 
 ## 📥 下載鏈接
 
-### 最新版本 - 更新日期: 2024-07-17
+### 🆕最新版本 - 更新日期: 2024-07-17
 - 免安裝版本：[Version 1.0.0 ZIP](https://github.com/Rin2ec/ee-combo-helper/archive/refs/tags/v1.0.0.zip)
 - 安裝版本：[Version 1.0.0 EXE](releases/yourfile.exe)
 
