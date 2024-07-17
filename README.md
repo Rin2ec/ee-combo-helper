@@ -7,6 +7,7 @@
 ### 最新版本
 - 免安裝版本：[Version 1.0.0 ZIP](https://github.com/Rin2ec/ee-combo-helper/archive/refs/tags/v1.0.0.zip) - 更新日期: 2024-07-17
 - 安裝版本：[Version 1.0.0 EXE](releases/yourfile.exe) - 更新日期: 2024-07-17
+- 格式化網站：[按鍵組合轉換器](releases/yourfile.exe) - 更新日期: 2024-07-17
 
 ## 工具說明
 **伊伊接技小幫手** 是一個用於練習鍵盤組合操作的工具，適用於各種需要鍵盤組合的遊戲。主要功能包括：
