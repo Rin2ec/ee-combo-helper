@@ -1,3 +1,10 @@
+<style>
+body {
+    font-family: 'Microsoft JhengHei', sans-serif;
+}
+</style>
+
+
 # 伊伊接技小幫手
 
 歡迎來到 **伊伊接技小幫手** 的發布頁面。在這裡可以找到最新版本的ZIP壓縮檔案和EXE安裝檔。
