@@ -8,8 +8,9 @@
 - 免安裝版本：[Version 1.0.0 ZIP](https://github.com/Rin2ec/ee-combo-helper/archive/refs/tags/v1.0.0.zip)
 - 安裝版本：[Version 1.0.0 EXE](releases/yourfile.exe)
 
-## 按鍵組合格式化轉換網站
-- [按鍵組合轉換器](https://rin2ec.github.io/ee-combo-helper-convert/)
+## 按鍵組合轉換器
+- 網站：[按鍵組合轉換器](https://rin2ec.github.io/ee-combo-helper-convert/)
+此網站可以將輸入的按鍵組合自動轉換為適合**伊伊接技小幫手**讀取的格式，例如將 "W+右" 自動轉換為 "W+RMB"。
 
 ## 工具說明
 **伊伊接技小幫手** 是一個用於練習鍵盤組合操作的工具，適用於各種需要鍵盤組合的遊戲。主要功能包括：
