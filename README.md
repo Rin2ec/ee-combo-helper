@@ -25,14 +25,15 @@
 2. 將需要的txt檔案放置於對應目錄中。
 3. 開啟工具並讀取檔案，隱藏UI後開始練習鍵盤組合操作。
 
-### 📝 Version 1.0.0
+### 📝 Version 1.0.1
 - 正式版本發布
 
 ## 🕰 過往版本
-- 暫無
+- Version 1.0.0
 
 ## 📅 更新說明
-- 暫無
+- 修正部分按鍵未生效的問題，例如鍵盤右側的ALT與CTRL、小數字鍵盤
+- 優化UI介面
 
 ## 🛠 問題反饋與討論
 如果你在使用過程中遇到任何問題或有相關建議，請到 [巴哈姆特文章](https://forum.gamer.com.tw/C.php?bsn=19017&snA=65245&tnum=1) 、[Discord](https://discord.gg/UJfHxYBgfB) 提交反饋，或在 [實況網站](https://www.twitch.tv/shiyu2615) 上進行交流討論。
