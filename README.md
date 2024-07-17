@@ -9,10 +9,10 @@
 - 安裝版本：[Version 1.0.0 EXE](releases/yourfile.exe) - 更新日期: 2024-07-17
 
 ### 過往版本
-- [Version 0.9.0 ZIP](releases/yourfile_v0.9.0.zip) - 更新日期: YYYY-MM-DD
-- [Version 0.9.0 EXE](releases/yourfile_v0.9.0.exe) - 更新日期: YYYY-MM-DD
+- 暫無
 
 ## 更新說明
+－暫無
 
 ### Version 1.0.0
 - 正式初始版本發布
