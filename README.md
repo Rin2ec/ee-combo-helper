@@ -35,4 +35,4 @@
 - 暫無
 
 ## 🛠 問題反饋與討論
-如果你在使用過程中遇到任何問題或有相關建議，請到 [巴哈姆特文章](https://forum.gamer.com.tw/C.php?bsn=19017&snA=65245&tnum=1) 、[Discord]([https://](https://discord.gg/UJfHxYBgfB))提交反饋，或在 [實況網站]([https://](https://www.twitch.tv/shiyu2615)) 上進行交流討論。
+如果你在使用過程中遇到任何問題或有相關建議，請到 [巴哈姆特文章](https://forum.gamer.com.tw/C.php?bsn=19017&snA=65245&tnum=1) 、[Discord](https://discord.gg/UJfHxYBgfB) 提交反饋，或在 [實況網站](https://www.twitch.tv/shiyu2615) 上進行交流討論。
