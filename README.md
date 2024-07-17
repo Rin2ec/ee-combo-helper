@@ -10,8 +10,9 @@
 - 免安裝版本：[伊伊接技小幫手 Setup 1.0.0.zip](https://github.com/Rin2ec/ee-combo-helper/archive/refs/tags/v1.0.0.zip)
 - 安裝版本：[伊伊接技小幫手 Setup 1.0.0.exe](releases/yourfile.exe)
 
-## 🔄 [按鍵組合轉換器](https://rin2ec.github.io/ee-combo-helper-convert/)
-此網站可以將輸入的按鍵組合自動轉換為適合 **伊伊接技小幫手** 讀取的格式，例如將 "W+右" 自動轉換為 "W+RMB"。
+## 🔄 按鍵組合轉換器
+- [按鍵組合轉換器](https://rin2ec.github.io/ee-combo-helper-convert/)
+- 此網站可以將輸入的按鍵組合自動轉換為適合 **伊伊接技小幫手** 讀取的格式，例如將 "W+右" 自動轉換為 "W+RMB"。
 
 ## 🛠 工具說明
 **伊伊接技小幫手** 是一個用於練習鍵盤組合操作的工具，適用於各種需要鍵盤組合的遊戲。主要功能包括：
@@ -34,4 +35,4 @@
 - 暫無
 
 ## 🛠 問題反饋與討論
-如果你在使用過程中遇到任何問題或有相關建議，請到 [巴哈姆特文章](https://) 提交反饋，或在 [實況網站](https://) 上進行交流討論。
+如果你在使用過程中遇到任何問題或有相關建議，請到 [巴哈姆特文章](https://) 、[Discord](https://)提交反饋，或在 [實況網站](https://) 上進行交流討論。
