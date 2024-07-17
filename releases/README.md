@@ -5,7 +5,7 @@
 ## 下載鏈接
 
 ### 最新版本
-- [Version 1.0.0 ZIP](releases/yourfile.zip) - 更新日期: YYYY-MM-DD
+- [Version 1.0.0 ZIP](releases/test.zip) - 更新日期: YYYY-MM-DD
 - [Version 1.0.0 EXE](releases/yourfile.exe) - 更新日期: YYYY-MM-DD
 
 ### 過往版本
