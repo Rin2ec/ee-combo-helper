@@ -6,9 +6,9 @@
 
 ## 📥 下載鏈接
 
-### 🆕最新版本 - Version 1.0.0 更新日期: 2024-07-17
-- 免安裝版本：[伊伊接技小幫手 1.0.0.zip](https://drive.google.com/file/d/1_5Rt6nadOvfPfGKJxFOguqpbmoWksGQI/view?usp=drive_link)
-- 安裝版本：[伊伊接技小幫手 Setup 1.0.0.exe](https://drive.google.com/file/d/1JrfbwPxcKdnvX007xgJkDfZ6Oh3CX2lv/view?usp=drive_link)
+### 🆕最新版本 - Version 1.0.1 更新日期: 2024-07-18
+- 免安裝版本：[伊伊接技小幫手 1.0.1.zip](https://drive.google.com/file/d/1MAYfJ3xONN_rsjJ7QViD_dxi2vySkFAo/view?usp=sharing)
+- 安裝版本：[伊伊接技小幫手 Setup 1.0.1.exe](https://drive.google.com/file/d/15oTlQTT1jhxqcT8py8-92IWWj6u5DULP/view?usp=sharing)
 
 ## 🔄 按鍵組合轉換器
 - [按鍵組合轉換器](https://rin2ec.github.io/ee-combo-helper-convert/)
