@@ -28,15 +28,24 @@
 ### 📝 Version 1.0.1
 - 最新版本發布
 
+## 📅 新版本更新內容
+- 新增「或」功能，使用「|」來組合，例如: W|S 代表按W或S都可以完成
+- 新增「備註」功能，使用「#」來組合，例如: W#我是註解 就能於畫面上顯示 W (我是註解)
+- 增加目錄選擇頁面的瀏覽高度
+- 修正顯示版本編號顯示異常問題
+- 按鍵組合網站新增「或」的轉換功能
+## ❗❗更新注意事項❗❗
+- 舊版按鍵組合資料夾(key_combinations)與設定檔(settings.json)記得先備份 
+- 更新完後再把此兩個檔案覆蓋回去
+<img src="https://i.imgur.com/mFKYwNS.png" alt="更新說明" width="450" height="150">
+
 ## 🕰 過往版本
 - Version 1.0.1
 - 免安裝版本：[伊伊接技小幫手 1.0.1.zip](https://drive.google.com/file/d/1MAYfJ3xONN_rsjJ7QViD_dxi2vySkFAo/view?usp=sharing)
 - 安裝版本：[伊伊接技小幫手 Setup 1.0.1.exe](https://drive.google.com/file/d/15oTlQTT1jhxqcT8py8-92IWWj6u5DULP/view?usp=sharing)
-- Version 1.0.0
-
-## 📅 更新說明
 - 修正部分按鍵未生效的問題，例如鍵盤右側的ALT與CTRL、小數字鍵盤
 - 優化UI介面
+- Version 1.0.0
 
 ## 🛠 問題反饋與討論
 如果你在使用過程中遇到任何問題或有相關建議，請到 [巴哈姆特文章](https://forum.gamer.com.tw/C.php?bsn=19017&snA=65245&tnum=1) 、[Discord](https://discord.gg/UJfHxYBgfB) 提交反饋，或在 [實況網站](https://www.twitch.tv/shiyu2615) 上進行交流討論。
