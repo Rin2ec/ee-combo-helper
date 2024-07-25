@@ -37,6 +37,7 @@
 ## ❗❗更新注意事項❗❗
 - 舊版按鍵組合資料夾(key_combinations)與設定檔(settings.json)記得先備份 
 - 更新完後再把此兩個檔案覆蓋回去
+- ※目錄位於: ...\伊伊接技小幫手 Ver1.1.0\resources  或是點伊伊小幫手開啟資料夾按鈕
 <img src="https://i.imgur.com/mFKYwNS.png" alt="更新說明" width="450" height="150">
 
 ## 🕰 過往版本
